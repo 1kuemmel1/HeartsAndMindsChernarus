@@ -1,5 +1,5 @@
 <p align="center">
-#Hearts And Minds: Chernarus
+# Hearts And Minds: Chernarus
 </p>
 <p align="center">
  <a><img src="https://img.shields.io/badge/Version-0.1-red.svg?style=flat-square" alt="H&M Version"></a>
