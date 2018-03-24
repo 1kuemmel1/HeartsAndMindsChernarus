@@ -1,4 +1,12 @@
-# HeartsAndMindsChernarus
+<p align="center">
+# Hearts And Minds: Chernarus -<a><img src="https://img.shields.io/badge/Version-0.1-red.svg?style=flat-square" alt="H&M Version"></a>
+
+Attention! This is a modified/ported version based on [Hearts and Minds by Giallustio & Vdauphin](https://github.com/Vdauphin/HeartsAndMinds).
+
+Current base version:<a href="https://github.com/Vdauphin/HeartsAndMinds/releases/tag/1.18"><img src="https://img.shields.io/badge/Version-1.18-blue.svg?style=flat-square" alt="H&M Version"></a>.
+</p>
+
+
 
 **Required mods:**
  - [ACE 3](http://steamcommunity.com/sharedfiles/filedetails/?id=463939057)
